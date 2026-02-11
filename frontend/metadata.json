@@ -1,0 +1,8 @@
+
+{
+  "name": "Digital First Aid Assistance",
+  "description": "A comprehensive healthcare companion providing first aid guidance and personal health tracking with AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
