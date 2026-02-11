@@ -1,12 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**Digital First Aid Assistance**
 
-# Run and deploy your AI Studio app
+An AI-powered web platform that provides instant first aid guidance, emergency SOS support with live location sharing, and nearby healthcare connectivity.
 
-This contains everything you need to run your app locally.
+**Overview**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1MvAe0GLaabp81jOI0xBGfreCNE6ovQ4J
+Digital First Aid Assistance is a smart emergency support system designed to help users during medical emergencies. It provides step-by-step first aid instructions, AI chatbot assistance, voice-based search, multilingual support, and real-time SOS alerts with GPS tracking.
+
+The goal of this project is to make first aid guidance easily accessible, reliable, and user-friendly for everyone.
+
+**Features**
+
+Step-by-step First Aid Guidance
+
+AI Chatbot (Google Gemini API)
+
+Multilingual Support
+
+Voice-based Symptom Search (Web Speech API)
+
+SOS Emergency Alerts with Live GPS Location
+
+Nearby Hospitals, Doctors & Pharmacies
+
+Medicine Reminders & Notifications
+
+Secure User Authentication
+
+ **Tech Stack**
+Frontend
+
+React
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+**Backend**
+
+Node.js
+
+Next.js API Routes
+
+Database
+
+MongoDB Atlas
 
 ## Run Locally
 
